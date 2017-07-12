@@ -18,7 +18,16 @@ Therefore
 
 
 
+
+
 ![Screenshot](image/ncurses5.png)
+
+
+
+
+
+
+
 
 
 
