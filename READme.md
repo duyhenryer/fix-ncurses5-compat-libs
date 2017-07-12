@@ -13,39 +13,11 @@ For axemple : Swift 2 on Linux
 yaourt ncurses5-compat-libs
 
 ```
-###Therefore
+##Therefore
 
 
 
 ![Screenshot](image/ncurses5.png)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
@@ -71,9 +43,7 @@ gpg --keyserver pgp.mit.edu --recv-keys C52048C0C0748FEE227D47A2702353E0F7E48EDB
 
 
 
-###Got it!
-
-
+## Got it!
 
 
 
