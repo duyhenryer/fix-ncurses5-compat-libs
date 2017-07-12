@@ -15,7 +15,14 @@ yaourt ncurses5-compat-libs
 ```
 Therefore
 
-![Screenshot](./ncurses5.png)
+
+
+
+![Screenshot](image/ncurses5.png)
+
+
+
+
 
 ## Fix: Install the GPG signature for ncurses package
 ```aidl
@@ -23,7 +30,13 @@ Therefore
 gpg --keyserver pgp.mit.edu --recv-keys C52048C0C0748FEE227D47A2702353E0F7E48EDB
 ```
 
-![Screenshot](./pkg.png)
+
+
+
+
+
+
+![Screenshot](image/pkg.png)
 
 
 
@@ -31,7 +44,12 @@ gpg --keyserver pgp.mit.edu --recv-keys C52048C0C0748FEE227D47A2702353E0F7E48EDB
 
 
 ###Got it!
-![Screenshot](./pkg2.png)
+
+
+
+
+
+![Screenshot](image/pkg2.png)
 
 
 
