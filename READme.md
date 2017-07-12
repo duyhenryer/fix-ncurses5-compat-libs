@@ -28,6 +28,7 @@ yaourt ncurses5-compat-libs
 ```aidl
 
 gpg --keyserver pgp.mit.edu --recv-keys C52048C0C0748FEE227D47A2702353E0F7E48EDB
+
 ```
 
 
