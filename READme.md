@@ -1,4 +1,4 @@
-# fix--->ncurses5-compat-libs
+# fix ---> ncurses5-compat-libs
 A few error [Link](https://forum.manjaro.org/t/solved-cant-install-android-sdk-platform-tools-from-aur/6187/6).
 
 
@@ -13,7 +13,7 @@ For axemple : Swift 2 on Linux
 yaourt ncurses5-compat-libs
 
 ```
-##Therefore
+## Therefore
 
 
 
