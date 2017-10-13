@@ -1,56 +1,30 @@
-# fix ---> ncurses5-compat-libs
-A few error [Link](https://forum.manjaro.org/t/solved-cant-install-android-sdk-platform-tools-from-aur/6187/6).
+# Issues:
+...
+... FAILED (unknown public key 1EB2638FF56C0C53)
+==> ERROR: One or more PGP signatures could not be verified!
+==> ERROR: Makepkg was unable to build cower.
 
+Screenshot(image/cower.png)
+
+Issues on Forums Arch (https://bbs.archlinux.org/viewtopic.php?id=191954)
 
 ## Sulotions:
-For axemple : Swift 2 on Linux
+If you are having problems installing this package due to signature verification, please run the below before running makepkg:
 
+```
+$ gpg --recv-keys --keyserver hkp://pgp.mit.edu 1EB2638FF56C0C53
+```
 
-[Swift 2 on Linux ](http://juanroa.me/2016/swift-on-linux/) 
+Install more package:` ncurses5-compat-libs | cower`
 
 
 ```
-yaourt ncurses5-compat-libs
-
-```
-## Therefore
-
-
-
-![Screenshot](image/ncurses5.png)
-
-
-
-
-
-
-## Fix: Install the GPG signature for ncurses package
-```aidl
-
-gpg --keyserver pgp.mit.edu --recv-keys C52048C0C0748FEE227D47A2702353E0F7E48EDB
-
+$ yaourt ncurses5-compat-libs
+$ yaourt cower
 ```
 
+After verification PGP:
 
-
-
-
-
-
-![Screenshot](image/pkg.png)
-
-
-
-
-
-
-## Got it!
-
-
-
-![Screenshot](image/pkg2.png)
-
-
-
+![Screenshot](image/pgp.png)
 
 
