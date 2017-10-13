@@ -6,9 +6,9 @@
 ==> ERROR: Makepkg was unable to build cower.
 
 ```
-Screenshot(image/cower.png)
+![Screenshot](image/cower.png)
 
-[Issues on Forums Arch] [](https://biichlinux.org/viewtopic.php?id=191954)
+Issues on [Forums Arch](https://biichlinux.org/viewtopic.php?id=191954)
 
 ## Sulotions:
 If you are having problems installing this package due to signature verification, please run the below before running makepkg:
